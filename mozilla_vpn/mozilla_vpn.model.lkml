@@ -1,0 +1,5 @@
+connection: "bigquery"
+label: "Mozilla VPN"
+include: "//looker-hub/mozilla_vpn/explores/*"
+include: "explores/*"
+include: "dashboards/*"
