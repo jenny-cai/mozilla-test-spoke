@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_ios/views/feature_usage_metrics.view.lkml"
+# include: "//mozilla/firefox_ios/views/feature_usage_metrics.view.lkml"
 
 view: firefox_ios_feature_usage_metrics {
   derived_table: {

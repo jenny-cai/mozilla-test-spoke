@@ -1,6 +1,6 @@
-include: "//mozilla/fenix/explores/feature_usage_events.explore.lkml"
+# include: "//mozilla/fenix/explores/feature_usage_events.explore.lkml"
 include: "../views/feature_usage_events.view.lkml"
-include: "//mozilla/fenix/datagroups/feature_usage_events_last_updated.datagroup.lkml"
+# include: "//mozilla/fenix/datagroups/feature_usage_events_last_updated.datagroup.lkml"
 
 explore: +feature_usage_events {
   from: feature_usage_events

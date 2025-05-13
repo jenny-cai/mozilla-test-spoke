@@ -1,6 +1,6 @@
 include: "../views/crash_usage.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//mozilla/firefox_desktop/datagroups/clients_daily_joined_table_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_desktop/datagroups/clients_daily_joined_table_last_updated.datagroup.lkml"
 
 explore: crash_usage {
   label: "Crashes Daily"

@@ -1,4 +1,4 @@
-include: "//mozilla/fenix/views/feature_usage_events.view.lkml"
+# include: "//mozilla/fenix/views/feature_usage_events.view.lkml"
 
 view: +feature_usage_events {
   dimension: app_icon_private_tab_tapped {

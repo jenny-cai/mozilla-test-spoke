@@ -1,4 +1,4 @@
-include: "//mozilla/fenix/views/new_profile_activation_table.view.lkml"
+# include: "//mozilla/fenix/views/new_profile_activation_table.view.lkml"
 
 view: +new_profile_activation_table {
 

@@ -1,5 +1,5 @@
 include: "/contextual_services/views/sponsored_tiles_ad_request_fill.view.lkml"
-include: "//mozilla/contextual_services/datagroups/sponsored_tiles_ad_request_fill_last_updated.datagroup.lkml"
+# include: "//mozilla/contextual_services/datagroups/sponsored_tiles_ad_request_fill_last_updated.datagroup.lkml"
 
 explore: sponsored_tiles_ad_request_fill {
 

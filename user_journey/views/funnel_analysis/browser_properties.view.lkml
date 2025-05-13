@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_desktop/views/clients_last_seen_table.view.lkml"
+# include: "//mozilla/firefox_desktop/views/clients_last_seen_table.view.lkml"
 
 view: browser_properties {
   extends: [clients_last_seen_table]

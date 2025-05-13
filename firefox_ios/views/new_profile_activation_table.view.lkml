@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_ios/views/new_profile_activation_table.view.lkml"
+# include: "//mozilla/firefox_ios/views/new_profile_activation_table.view.lkml"
 
 view: +new_profile_activation_table {
 

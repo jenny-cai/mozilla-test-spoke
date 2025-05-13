@@ -1,5 +1,5 @@
 include: "../views/firefox_ios_clients.view.lkml"
-include: "//mozilla/firefox_ios/datagroups/firefox_ios_clients_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_ios/datagroups/firefox_ios_clients_last_updated.datagroup.lkml"
 
 explore: firefox_ios_clients {
   sql_always_where: ${firefox_ios_clients.first_seen_date} >= '2010-01-01' ;;

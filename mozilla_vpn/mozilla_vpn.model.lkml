@@ -1,5 +1,5 @@
 connection: "bigquery"
 label: "Mozilla VPN"
-include: "//mozilla/mozilla_vpn/explores/*"
+# include: "//mozilla/mozilla_vpn/explores/*"
 include: "explores/*"
 include: "dashboards/*"

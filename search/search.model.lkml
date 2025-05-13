@@ -1,7 +1,7 @@
 connection: "bigquery"
 label: "Search"
-include: "//mozilla/search/explores/*"
-include: "//mozilla/search/views/desktop_search_alert_latest_daily.view.lkml"
+# include: "//mozilla/search/explores/*"
+# include: "//mozilla/search/views/desktop_search_alert_latest_daily.view.lkml"
 include: "views/bizdev_search_core_users.view.lkml"
 include: "views/mobile_search_aggregates.view.lkml"
 include: "views/mobile_search_clients_engines_sources_daily.view.lkml"
@@ -9,7 +9,7 @@ include: "views/search_aggregates.view.lkml"
 include: "views/search_clients_engine_sources_daily.view.lkml"
 include: "explores/*"
 include: "/shared/views/countries.view.lkml"
-include: "//mozilla/search/datagroups/search_clients_engines_sources_daily_last_updated.datagroup.lkml"
+# include: "//mozilla/search/datagroups/search_clients_engines_sources_daily_last_updated.datagroup.lkml"
 
 explore: search_aggregates {
   description: " Includes aggregated search metrics per day "

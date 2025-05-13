@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_desktop/views/newtab_visits_table.view.lkml"
+# include: "//mozilla/firefox_desktop/views/newtab_visits_table.view.lkml"
 
 view: newtab_visits {
   extends: [newtab_visits_table]

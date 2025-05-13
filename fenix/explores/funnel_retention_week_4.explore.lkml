@@ -1,6 +1,6 @@
 include: "../views/new_retention_view_for_acquisition_funnel.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//mozilla/fenix/datagroups/funnel_retention_week_4_table_last_updated.datagroup.lkml"
+# include: "//mozilla/fenix/datagroups/funnel_retention_week_4_table_last_updated.datagroup.lkml"
 
 
 explore: funnel_retention_week_4 {

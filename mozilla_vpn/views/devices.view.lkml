@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/devices.view"
+# include: "//mozilla/mozilla_vpn/views/devices.view"
 
 view: +devices {
   dimension: id {

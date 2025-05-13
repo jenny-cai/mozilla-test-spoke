@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/funnel_analysis.view"
+# include: "//mozilla/mozilla_vpn/views/funnel_analysis.view"
 view: funnel_analysis_extra_steps {
   extends: [funnel_analysis]
   dimension: completed_step_5 {

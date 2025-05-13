@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/explores/events.explore.lkml"
+# include: "//mozilla/mozilla_vpn/explores/events.explore.lkml"
 
 explore: +event_counts {
   sql_always_where:  ${events.submission_date} >= '2010-01-01'

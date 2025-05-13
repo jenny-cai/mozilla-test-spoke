@@ -1,4 +1,4 @@
-include: "//mozilla/websites/views/www_site_events_metrics.view.lkml"
+# include: "//mozilla/websites/views/www_site_events_metrics.view.lkml"
 
 view: +www_site_events_metrics {
 

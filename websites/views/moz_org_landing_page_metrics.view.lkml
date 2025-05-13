@@ -1,4 +1,4 @@
-include: "//mozilla/websites/views/moz_org_landing_page_metrics.view.lkml"
+# include: "//mozilla/websites/views/moz_org_landing_page_metrics.view.lkml"
 
 view: +moz_org_landing_page_metrics {
   measure: sessions_sum {

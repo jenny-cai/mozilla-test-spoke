@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/active_subscriptions_table.view"
+# include: "//mozilla/mozilla_vpn/views/active_subscriptions_table.view"
 
 view: +active_subscriptions_table {
 

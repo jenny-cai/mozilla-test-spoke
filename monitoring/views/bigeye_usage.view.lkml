@@ -1,4 +1,4 @@
-include: "//mozilla/monitoring/views/bigeye_usage.view.lkml"
+# include: "//mozilla/monitoring/views/bigeye_usage.view.lkml"
 
 view: +bigeye_usage {
   final: yes

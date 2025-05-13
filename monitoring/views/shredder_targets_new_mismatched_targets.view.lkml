@@ -1,4 +1,4 @@
-include: "//mozilla/monitoring/views/shredder_targets_new_mismatched_targets.view.lkml"
+# include: "//mozilla/monitoring/views/shredder_targets_new_mismatched_targets.view.lkml"
 
 view: +shredder_targets_new_mismatched_targets {
 }

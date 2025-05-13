@@ -1,4 +1,4 @@
-include: "//mozilla/reference/views/macroeconomic_indices.view.lkml"
+# include: "//mozilla/reference/views/macroeconomic_indices.view.lkml"
 
 view: +macroeconomic_indices {
 

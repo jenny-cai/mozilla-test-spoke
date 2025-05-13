@@ -1,6 +1,6 @@
 include: "../views/newtab_interactions.view.lkml"
 include: "../../shared/views/countries.view.lkml"
-include: "//mozilla/firefox_desktop/datagroups/newtab_interactions_table_last_updated.datagroup"
+# include: "//mozilla/firefox_desktop/datagroups/newtab_interactions_table_last_updated.datagroup"
 include: "/firefox_desktop/views/key_tentpole_dates.view.lkml"
 
 explore: newtab_interactions {

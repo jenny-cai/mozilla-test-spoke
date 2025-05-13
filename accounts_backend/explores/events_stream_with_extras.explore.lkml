@@ -1,5 +1,5 @@
 include: "../views/events_stream_with_extras.view.lkml"
-include: "//mozilla/accounts_backend/datagroups/events_stream_table_last_updated.datagroup.lkml"
+# include: "//mozilla/accounts_backend/datagroups/events_stream_table_last_updated.datagroup.lkml"
 
 explore: events_stream_with_extras {
   hidden: no

@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/explores/funnel_analysis.explore.lkml"
+# include: "//mozilla/mozilla_vpn/explores/funnel_analysis.explore.lkml"
 
 explore: +funnel_analysis {
   sql_always_where: ${funnel_analysis.submission_date} >= '2010-01-01'

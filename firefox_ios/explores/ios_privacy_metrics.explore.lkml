@@ -1,5 +1,5 @@
 include: "../views/ios_privacy_metrics.view.lkml"
-include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: ios_privacy_metrics {
   label: "Privacy Metric for iOS"

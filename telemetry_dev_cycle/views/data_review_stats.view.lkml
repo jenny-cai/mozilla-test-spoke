@@ -1,4 +1,4 @@
-include: "//mozilla/telemetry_dev_cycle/views/data_review_stats.view.lkml"
+# include: "//mozilla/telemetry_dev_cycle/views/data_review_stats.view.lkml"
 
 view: +data_review_stats {
 

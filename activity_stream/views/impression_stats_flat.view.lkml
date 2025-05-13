@@ -1,4 +1,4 @@
-include: "//mozilla/activity_stream/views/impression_stats_flat.view.lkml"
+# include: "//mozilla/activity_stream/views/impression_stats_flat.view.lkml"
 
 view: +impression_stats_flat {
   measure: block_count {

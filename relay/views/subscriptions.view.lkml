@@ -1,4 +1,4 @@
-include: "//mozilla/relay/views/subscriptions.view"
+# include: "//mozilla/relay/views/subscriptions.view"
 view: +subscriptions {
 
   dimension: plan_id {

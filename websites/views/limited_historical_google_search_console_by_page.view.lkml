@@ -1,4 +1,4 @@
-include: "//mozilla/websites/views/limited_historical_google_search_console_by_page.view.lkml"
+# include: "//mozilla/websites/views/limited_historical_google_search_console_by_page.view.lkml"
 
 view: +limited_historical_google_search_console_by_page {
   dimension: impressions {

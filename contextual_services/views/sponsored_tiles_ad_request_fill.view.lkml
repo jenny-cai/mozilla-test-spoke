@@ -1,4 +1,4 @@
-include: "//mozilla/contextual_services/views/sponsored_tiles_ad_request_fill.view.lkml"
+# include: "//mozilla/contextual_services/views/sponsored_tiles_ad_request_fill.view.lkml"
 
 view: +sponsored_tiles_ad_request_fill {
 

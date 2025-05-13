@@ -1,4 +1,4 @@
-include: "//mozilla/relay/views/active_subscriptions.view"
+# include: "//mozilla/relay/views/active_subscriptions.view"
 view: +active_subscriptions {
 
   dimension: country_name {

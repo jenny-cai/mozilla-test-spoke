@@ -1,4 +1,4 @@
-include: "//mozilla/combined_browser_metrics/views/cohort_daily_statistics.view.lkml"
+# include: "//mozilla/combined_browser_metrics/views/cohort_daily_statistics.view.lkml"
 
 view: +cohort_daily_statistics {
 

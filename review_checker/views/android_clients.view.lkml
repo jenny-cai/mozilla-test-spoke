@@ -1,4 +1,4 @@
-include: "//mozilla/review_checker/views/android_clients.view.lkml"
+# include: "//mozilla/review_checker/views/android_clients.view.lkml"
 
 view: +android_clients {
 

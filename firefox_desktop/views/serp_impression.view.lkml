@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_desktop/views/serp_events_table.view.lkml"
+# include: "//mozilla/firefox_desktop/views/serp_events_table.view.lkml"
 
 view: serp_impression {
   extends: [serp_events_table]

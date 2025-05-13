@@ -1,5 +1,5 @@
 include: "../views/android_notification_events.view.lkml"
-include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
+# include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: fenix_android_notification_events {
   label: "Notification Event for Android"

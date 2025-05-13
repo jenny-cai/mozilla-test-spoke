@@ -1,5 +1,5 @@
 include: "../views/ios_bookmark_metrics.view.lkml"
-include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: ios_bookmark_metrics {
   label: "Bookmark Metric for iOS"

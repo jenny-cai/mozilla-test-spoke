@@ -1,4 +1,4 @@
-include: "//mozilla/duet/views/new_profile.view.lkml"
+# include: "//mozilla/duet/views/new_profile.view.lkml"
 
 view: desktop_new_profile {
   extends: [new_profile]

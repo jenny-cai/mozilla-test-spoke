@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_okrs/views/desktop_retention.view.lkml"
+# include: "//mozilla/firefox_okrs/views/desktop_retention.view.lkml"
 
 view: +desktop_retention {
 

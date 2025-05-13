@@ -1,4 +1,4 @@
-include: "//mozilla/monitoring/views/shredder_per_job_stats.view.lkml"
+# include: "//mozilla/monitoring/views/shredder_per_job_stats.view.lkml"
 
 view: +shredder_per_job_stats {
 

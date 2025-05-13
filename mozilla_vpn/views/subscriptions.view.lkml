@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/subscriptions.view"
+# include: "//mozilla/mozilla_vpn/views/subscriptions.view"
 
 view: +subscriptions {
   dimension: customer_id {

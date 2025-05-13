@@ -1,6 +1,6 @@
 include: "../views/mobile_engagement.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//mozilla/firefox_okrs/datagroups/mobile_engagement_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_okrs/datagroups/mobile_engagement_last_updated.datagroup.lkml"
 
 explore: mobile_engagement {
   label: "Engagement for Firefox Mobile"

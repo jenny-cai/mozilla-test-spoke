@@ -1,4 +1,4 @@
-include: "//mozilla/firefox_desktop/views/desktop_new_profiles.view.lkml"
+# include: "//mozilla/firefox_desktop/views/desktop_new_profiles.view.lkml"
 
 view: +desktop_new_profiles {
 

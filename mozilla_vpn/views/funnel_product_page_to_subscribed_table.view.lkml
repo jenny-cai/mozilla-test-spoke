@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/funnel_product_page_to_subscribed_table.view"
+# include: "//mozilla/mozilla_vpn/views/funnel_product_page_to_subscribed_table.view"
 view: +funnel_product_page_to_subscribed_table {
   #For all users
   measure: product_page_visit {

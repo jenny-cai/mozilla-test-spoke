@@ -1,4 +1,4 @@
-include: "//mozilla/revenue/views/ad_cost_breakdowns.view"
+# include: "//mozilla/revenue/views/ad_cost_breakdowns.view"
 
 view: +ad_cost_breakdowns {
 

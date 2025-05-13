@@ -1,4 +1,4 @@
-include: "//mozilla/mozilla_vpn/views/channel_group_proportions_table.view"
+# include: "//mozilla/mozilla_vpn/views/channel_group_proportions_table.view"
 view: +channel_group_proportions_table {
   measure: new_subscription_count{
     type: sum

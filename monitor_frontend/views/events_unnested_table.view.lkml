@@ -1,4 +1,4 @@
-include: "//mozilla/monitor_frontend/views/events_unnested_table.view.lkml"
+# include: "//mozilla/monitor_frontend/views/events_unnested_table.view.lkml"
 
 view: +events_unnested_table {
 

@@ -1,4 +1,4 @@
-include: "//mozilla/fxci/views/task_run_costs_base.view.lkml"
+# include: "//mozilla/fxci/views/task_run_costs_base.view.lkml"
 
 view: task_run_costs {
   extends: [task_run_costs_base]

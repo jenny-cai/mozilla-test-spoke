@@ -1,5 +1,5 @@
 include: "../views/android_default_browser_events.view.lkml"
-include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
+# include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: fenix_android_default_browser_events {
   label: "Default Browser Event for Android"

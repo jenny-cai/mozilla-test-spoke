@@ -1,5 +1,5 @@
 include: "/firefox_desktop/views/suggest_clients_daily.view.lkml"
-include: "//mozilla/firefox_desktop/datagroups/suggest_clients_daily_last_updated.datagroup.lkml"
+# include: "//mozilla/firefox_desktop/datagroups/suggest_clients_daily_last_updated.datagroup.lkml"
 
 explore: suggest_clients_daily {
   view_name: suggest_clients_daily

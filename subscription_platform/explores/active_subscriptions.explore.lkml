@@ -1,4 +1,4 @@
-include: "//mozilla/subscription_platform/explores/active_subscriptions.explore.lkml"
+# include: "//mozilla/subscription_platform/explores/active_subscriptions.explore.lkml"
 include: "/shared/views/countries.view.lkml"
 
 explore: +active_subscriptions {

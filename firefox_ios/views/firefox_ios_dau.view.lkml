@@ -1,4 +1,4 @@
-include: "//mozilla/combined_browser_metrics/views/active_users_aggregates.view.lkml"
+# include: "//mozilla/combined_browser_metrics/views/active_users_aggregates.view.lkml"
 
 view: firefox_ios_dau {
   derived_table: {
