@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/newtab_interactions_table.view.lkml"
+include: "//mozilla/firefox_desktop/views/newtab_interactions_table.view.lkml"
 
 
 view: newtab_interactions {

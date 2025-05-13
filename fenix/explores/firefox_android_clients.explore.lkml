@@ -1,5 +1,5 @@
 include: "../views/firefox_android_clients.view.lkml"
-include: "//looker-hub/fenix/datagroups/firefox_android_clients_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/firefox_android_clients_last_updated.datagroup.lkml"
 
 explore: firefox_android_clients {
   sql_always_where: ${firefox_android_clients.first_seen_date} >= '2010-01-01' ;;

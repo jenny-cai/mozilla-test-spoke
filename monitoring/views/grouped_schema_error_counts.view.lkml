@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/schema_error_counts.view.lkml"
+include: "//mozilla/monitoring/views/schema_error_counts.view.lkml"
 
 view: +schema_error_counts {
 

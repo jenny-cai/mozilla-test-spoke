@@ -1,4 +1,4 @@
-include: "//looker-hub/fenix/views/feature_usage_metrics.view.lkml"
+include: "//mozilla/fenix/views/feature_usage_metrics.view.lkml"
 
 view: fenix_feature_usage_metrics {
   derived_table: {

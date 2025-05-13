@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_okrs/views/mobile_engagement.view.lkml"
+include: "//mozilla/firefox_okrs/views/mobile_engagement.view.lkml"
 
 view: +mobile_engagement {
 

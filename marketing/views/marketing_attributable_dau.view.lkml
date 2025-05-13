@@ -1,4 +1,4 @@
-include: "//looker-hub/growth/views/rolling_28_day_dau.view.lkml"
+include: "//mozilla/growth/views/rolling_28_day_dau.view.lkml"
 
 view: marketing_attributable_dau{
   extends: [rolling_28_day_dau]

@@ -1,4 +1,4 @@
-include: "//looker-hub/websites/views/moz_org_metrics_summary.view.lkml"
+include: "//mozilla/websites/views/moz_org_metrics_summary.view.lkml"
 
 view: website_conv_with_pop {###  Period over Period Method 3: Custom choice of current and previous periods with parameters
 

@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_okrs/views/desktop_engagement.view.lkml"
+include: "//mozilla/firefox_okrs/views/desktop_engagement.view.lkml"
 
 view: +desktop_engagement {
 

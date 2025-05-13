@@ -1,4 +1,4 @@
-include: "//looker-hub/activity_stream/views/events.view.lkml"
+include: "//mozilla/activity_stream/views/events.view.lkml"
 
 view: +events {
   measure: event_count {

@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/airflow_dag.view.lkml"
+include: "//mozilla/monitoring/views/airflow_dag.view.lkml"
 
 view: +airflow_dag {
 

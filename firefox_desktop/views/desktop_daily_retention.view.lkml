@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/desktop_cohort_daily_retention.view.lkml"
+include: "//mozilla/firefox_desktop/views/desktop_cohort_daily_retention.view.lkml"
 
 view: +desktop_cohort_daily_retention {
 

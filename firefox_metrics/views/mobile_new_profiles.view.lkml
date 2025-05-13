@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_okrs/views/mobile_new_profiles.view.lkml"
+include: "//mozilla/firefox_okrs/views/mobile_new_profiles.view.lkml"
 
 view: +mobile_new_profiles {
 

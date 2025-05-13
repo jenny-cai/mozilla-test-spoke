@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_accounts/views/auth_events.view.lkml"
+include: "//mozilla/firefox_accounts/views/auth_events.view.lkml"
 
 view: +auth_events {
   dimension_group: submission {

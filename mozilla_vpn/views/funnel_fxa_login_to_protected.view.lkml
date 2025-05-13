@@ -1,4 +1,4 @@
-include: "//looker-hub/mozilla_vpn/views/funnel_fxa_login_to_protected.view"
+include: "//mozilla/mozilla_vpn/views/funnel_fxa_login_to_protected.view"
 
 view: +funnel_fxa_login_to_protected {
   dimension: fxa_uid {

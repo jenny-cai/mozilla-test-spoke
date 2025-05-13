@@ -26,8 +26,8 @@ include: "dashboards/*"
 
 
 
-# looker-hub explores included here
-include: "//looker-hub/duet/explores/*"
+# mozilla explores included here
+include: "//mozilla/duet/explores/*"
 
 ##########################################################################################
 # below are views saved into the mr1DEVELOPMENT directory specifically for the MR1 dashboard

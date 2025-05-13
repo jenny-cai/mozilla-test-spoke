@@ -1,4 +1,4 @@
-include: "//looker-hub/search/views/mobile_search_clients_engines_sources_daily.view.lkml"
+include: "//mozilla/search/views/mobile_search_clients_engines_sources_daily.view.lkml"
 
 view: +mobile_search_clients_engines_sources_daily {
     dimension_group: submission {

@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/suggest_clients_daily.view.lkml"
+include: "//mozilla/firefox_desktop/views/suggest_clients_daily.view.lkml"
 
 view: +suggest_clients_daily {
 

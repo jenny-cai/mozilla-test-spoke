@@ -1,4 +1,4 @@
-include: "//looker-hub/shared/views/countries.view"
+include: "//mozilla/shared/views/countries.view"
 
 view: +countries {
 

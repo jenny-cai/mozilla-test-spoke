@@ -1,4 +1,4 @@
-include: "//looker-hub/subscription_platform/views/daily_active_service_subscriptions.view.lkml"
+include: "//mozilla/subscription_platform/views/daily_active_service_subscriptions.view.lkml"
 
 view: +daily_active_service_subscriptions {
   dimension: id {

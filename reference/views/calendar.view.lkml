@@ -1,4 +1,4 @@
-include: "//looker-hub/reference/views/calendar.view.lkml"
+include: "//mozilla/reference/views/calendar.view.lkml"
 
 view: +calendar {
   label: "Calendar"

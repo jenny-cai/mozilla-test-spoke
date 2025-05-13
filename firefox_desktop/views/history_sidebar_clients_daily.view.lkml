@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/clients_daily_joined_table.view"
+include: "//mozilla/firefox_desktop/views/clients_daily_joined_table.view"
 
 view: history_sidebar_clients_daily {
 

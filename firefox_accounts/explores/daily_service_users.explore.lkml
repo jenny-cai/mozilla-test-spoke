@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_accounts/views/fxa_users_services_first_seen_table.view.lkml"
+include: "//mozilla/firefox_accounts/views/fxa_users_services_first_seen_table.view.lkml"
 include: "../views/daily_service_users.view.lkml"
 
 explore: daily_service_users {

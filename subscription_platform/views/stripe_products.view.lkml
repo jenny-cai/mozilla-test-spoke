@@ -1,4 +1,4 @@
-include: "//looker-hub/subscription_platform/views/stripe_products.view.lkml"
+include: "//mozilla/subscription_platform/views/stripe_products.view.lkml"
 
 view: +stripe_products {
 

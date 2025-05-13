@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_ios/views/ad_activation_performance_table.view.lkml"
+include: "//mozilla/firefox_ios/views/ad_activation_performance_table.view.lkml"
 
 view: +ad_activation_performance_table {
 

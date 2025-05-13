@@ -1,4 +1,4 @@
-include: "//looker-hub/experimentation/views/experimenter_experiments.view.lkml"
+include: "//mozilla/experimentation/views/experimenter_experiments.view.lkml"
 
 view: analysis_statistics {
   parameter: slug {

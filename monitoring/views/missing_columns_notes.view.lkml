@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/missing_columns_notes.view.lkml"
+include: "//mozilla/monitoring/views/missing_columns_notes.view.lkml"
 
 view: +missing_columns_notes {
 

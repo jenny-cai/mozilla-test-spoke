@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/messaging_system.view"
+include: "//mozilla/firefox_desktop/views/messaging_system.view"
 
 view: +messaging_system {
 }

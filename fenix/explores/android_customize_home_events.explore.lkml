@@ -1,5 +1,5 @@
 include: "../views/android_customize_home_events.view.lkml"
-include: "//looker-hub/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: fenix_android_customize_home_events {
   label: "Customize Home Event for Android"

@@ -1,4 +1,4 @@
-include: "//looker-hub/websites/views/blogs_landing_page_summary.view.lkml"
+include: "//mozilla/websites/views/blogs_landing_page_summary.view.lkml"
 
 view: +blogs_landing_page_summary {
   measure: sessions_sum {

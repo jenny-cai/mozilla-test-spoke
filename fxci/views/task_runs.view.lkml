@@ -1,4 +1,4 @@
-include: "//looker-hub/fxci/views/task_runs_base.view.lkml"
+include: "//mozilla/fxci/views/task_runs_base.view.lkml"
 
 view: task_runs {
   extends: [task_runs_base]

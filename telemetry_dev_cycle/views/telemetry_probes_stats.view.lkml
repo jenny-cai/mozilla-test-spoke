@@ -1,4 +1,4 @@
-include: "//looker-hub/telemetry_dev_cycle/views/telemetry_probes_stats.view.lkml"
+include: "//mozilla/telemetry_dev_cycle/views/telemetry_probes_stats.view.lkml"
 
 view: +telemetry_probes_stats {
 

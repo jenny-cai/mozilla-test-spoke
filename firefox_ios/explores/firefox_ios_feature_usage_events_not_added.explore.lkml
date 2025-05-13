@@ -1,6 +1,6 @@
 include: "../views/firefox_ios_feature_usage_events_not_added.view.lkml"
 include: "../views/firefox_ios_dau.view.lkml"
-include: "//looker-hub/firefox_ios/datagroups/events_unnested_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: firefox_ios_feature_usage_events_not_added {
   sql_always_where: ${firefox_ios_dau.submission_date} >= '2023-06-01'

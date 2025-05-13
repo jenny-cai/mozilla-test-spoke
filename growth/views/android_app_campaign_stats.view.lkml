@@ -2,7 +2,7 @@ view: android_app_campaign_stats {
 
   sql_table_name: `moz-fx-data-shared-prod.google_ads.android_app_campaign_stats` ;;
 
-  #### The below is copied directly from looker-hub. Why?
+  #### The below is copied directly from mozilla. Why?
   #### We needed to keep this new explore backwards-compatible with an old explore.
   #### That old explore had measure names that were the _same_ as some of the dimensions
   #### in the generated LookML. Because we can't remove dimensions from LookML with refinements,

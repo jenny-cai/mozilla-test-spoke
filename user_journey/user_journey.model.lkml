@@ -1,6 +1,6 @@
 connection: "bigquery"
 
-include: "//looker-hub/user_journey/views/events_daily.view.lkml"
+include: "//mozilla/user_journey/views/events_daily.view.lkml"
 include: "views/cohort_analysis/cohort_analysis.view.lkml"
 include: "views/cohort_analysis/cohort_event_types.view.lkml"
 include: "views/cohort_analysis/days_since_message.view.lkml"
@@ -12,7 +12,7 @@ include: "views/funnel_analysis/event_types.view.lkml"
 include: "views/funnel_analysis/funnel_analysis.view.lkml"
 include: "views/event_type.view.lkml"
 include: "views/raw_event_types.view.lkml"
-include: "//looker-hub/firefox_desktop/datagroups/onboarding_table_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_desktop/datagroups/onboarding_table_last_updated.datagroup.lkml"
 
 explore: funnel_analysis {
   view_label: " User-Day Funnels"

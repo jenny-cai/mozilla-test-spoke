@@ -1,4 +1,4 @@
-include: "//looker-hub/subscription_platform/views/logical_subscriptions.view.lkml"
+include: "//mozilla/subscription_platform/views/logical_subscriptions.view.lkml"
 
 view: +logical_subscriptions {
   dimension: id {

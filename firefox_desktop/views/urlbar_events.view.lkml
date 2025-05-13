@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/urlbar_events.view.lkml"
+include: "//mozilla/firefox_desktop/views/urlbar_events.view.lkml"
 
 view: +urlbar_events {
   dimension: annoyance_signal_type {
@@ -42,7 +42,7 @@ view: +urlbar_events {
   }
 
   dimension: first_result_type {
-    # looker-hub erroneously generates this Dimension that should not exist.
+    # mozilla erroneously generates this Dimension that should not exist.
     hidden:  yes
   }
 
@@ -175,7 +175,7 @@ view: +urlbar_events {
   }
 
   dimension: num_add_on_impressions {
-    # looker-hub erroneously generates this Dimension that should not exist.
+    # mozilla erroneously generates this Dimension that should not exist.
     hidden:  yes
   }
 

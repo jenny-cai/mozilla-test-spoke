@@ -1,4 +1,4 @@
-include: "//looker-hub/subscription_platform/views/logical_subscription_events.view.lkml"
+include: "//mozilla/subscription_platform/views/logical_subscription_events.view.lkml"
 
 view: +logical_subscription_events {
   dimension: id {

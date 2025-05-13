@@ -1,4 +1,4 @@
-include: "//looker-hub/marketing/views/firefox_for_families_forecasted_expectations.view.lkml"
+include: "//mozilla/marketing/views/firefox_for_families_forecasted_expectations.view.lkml"
 
 
 view: +firefox_for_families_forecasted_expectations {

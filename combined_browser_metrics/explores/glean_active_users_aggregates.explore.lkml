@@ -1,7 +1,7 @@
 include: "../views//glean_active_users_aggregates.view.lkml"
 include: "/shared/views/countries.view.lkml"
 include: "/firefox_desktop/views/key_tentpole_dates.view.lkml"
-include: "//looker-hub/combined_browser_metrics/datagroups/glean_active_users_aggregates_last_updated.datagroup.lkml"
+include: "//mozilla/combined_browser_metrics/datagroups/glean_active_users_aggregates_last_updated.datagroup.lkml"
 
 explore: glean_active_users_aggregates {
   # persist_with: glean_active_users_aggregates_v1_last_updated

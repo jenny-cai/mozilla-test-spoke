@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/event_monitoring_live.view.lkml"
+include: "//mozilla/monitoring/views/event_monitoring_live.view.lkml"
 
 view: +event_monitoring_live {
   dimension: full_event_name {

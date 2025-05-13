@@ -1,6 +1,6 @@
 connection: "bigquery"
 label: "Operational Monitoring"
-include: "//looker-hub/operational_monitoring/explores/[!0-9]*"
-include: "//looker-hub/operational_monitoring/dashboards/[!0-9]*"
+include: "//mozilla/operational_monitoring/explores/[!0-9]*"
+include: "//mozilla/operational_monitoring/dashboards/[!0-9]*"
 include: "explores/preview.explore"
 include: "dashboards/opmon-preview.dashboard"

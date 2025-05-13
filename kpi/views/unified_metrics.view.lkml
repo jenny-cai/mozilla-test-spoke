@@ -1,4 +1,4 @@
-include: "//looker-hub/kpi/views/unified_metrics.view.lkml"
+include: "//mozilla/kpi/views/unified_metrics.view.lkml"
 
 view: +unified_metrics {
   dimension: active_today {

@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/desktop_acquisition_funnel_table.view.lkml"
+include: "//mozilla/firefox_desktop/views/desktop_acquisition_funnel_table.view.lkml"
 
 view: +desktop_acquisition_funnel_table {
 

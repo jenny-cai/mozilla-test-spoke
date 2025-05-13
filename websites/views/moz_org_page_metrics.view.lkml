@@ -1,4 +1,4 @@
-include: "//looker-hub/websites/views/moz_org_page_metrics.view.lkml"
+include: "//mozilla/websites/views/moz_org_page_metrics.view.lkml"
 
 view: +moz_org_page_metrics {
   measure: pageviews_sum {

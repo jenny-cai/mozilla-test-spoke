@@ -1,4 +1,4 @@
-include: "//looker-hub/mdn_yari/views/page_table.view.lkml"
+include: "//mozilla/mdn_yari/views/page_table.view.lkml"
 
 explore: page_table {
   sql_always_where: ${page_table.submission_date} >= '2010-01-01' ;;

@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/urlbar_events_daily_table.view.lkml"
+include: "//mozilla/firefox_desktop/views/urlbar_events_daily_table.view.lkml"
 
 view: +urlbar_events_daily_table {
 

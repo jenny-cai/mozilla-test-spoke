@@ -1,4 +1,4 @@
-include: "//looker-hub/growth/views/ios_app_campaign_stats.view.lkml"
+include: "//mozilla/growth/views/ios_app_campaign_stats.view.lkml"
 
 view: +ios_app_campaign_stats {
 

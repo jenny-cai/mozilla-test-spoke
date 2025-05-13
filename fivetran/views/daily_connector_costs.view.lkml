@@ -1,4 +1,4 @@
-include: "//looker-hub/fivetran/views/daily_connector_costs.view.lkml"
+include: "//mozilla/fivetran/views/daily_connector_costs.view.lkml"
 
 view: +daily_connector_costs {
 

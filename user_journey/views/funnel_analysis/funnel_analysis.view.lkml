@@ -1,4 +1,4 @@
-include: "//looker-hub/user_journey/views/events_daily.view.lkml"
+include: "//mozilla/user_journey/views/events_daily.view.lkml"
 
 view: funnel_analysis {
   extends: [events_daily]

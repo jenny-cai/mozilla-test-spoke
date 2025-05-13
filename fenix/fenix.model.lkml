@@ -1,10 +1,10 @@
 connection: "bigquery"
 label: "Firefox for Android"
-include: "//looker-hub/fenix/explores/*"
+include: "//mozilla/fenix/explores/*"
 include: "explores/*"
 include: "datagroups/*"
 
-include: "//looker-hub/fenix/views/metrics.view.lkml"
+include: "//mozilla/fenix/views/metrics.view.lkml"
 include: "/fenix/views/android_store_performance.view.lkml"
 
 

@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/bigquery_shared_prod_table_storage.view.lkml"
+include: "//mozilla/monitoring/views/bigquery_shared_prod_table_storage.view.lkml"
 
 view: +bigquery_shared_prod_table_storage {
 

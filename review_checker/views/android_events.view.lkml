@@ -1,4 +1,4 @@
-include: "//looker-hub/review_checker/views/android_events.view.lkml"
+include: "//mozilla/review_checker/views/android_events.view.lkml"
 
 
 view: +android_events {

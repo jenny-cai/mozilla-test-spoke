@@ -1,6 +1,6 @@
 include: "../views/fenix_feature_usage_metrics.view.lkml"
 include: "../views/fenix_dau.view.lkml"
-include: "//looker-hub/fenix/datagroups/feature_usage_metrics_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/feature_usage_metrics_last_updated.datagroup.lkml"
 
 explore: fenix_feature_usage_metrics {
 

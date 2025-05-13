@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_desktop/views/clients_daily_table.view.lkml"
+include: "//mozilla/firefox_desktop/views/clients_daily_table.view.lkml"
 
 view: clients_daily_search {
   extends: [clients_daily_table]

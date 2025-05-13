@@ -1,4 +1,4 @@
-include: "//looker-hub/activity_stream/views/sessions.view.lkml"
+include: "//mozilla/activity_stream/views/sessions.view.lkml"
 
 view: +sessions {
   measure: session_count {

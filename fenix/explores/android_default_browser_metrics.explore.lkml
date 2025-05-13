@@ -1,5 +1,5 @@
 include: "../views/android_default_browser_metrics.view.lkml"
-include: "//looker-hub/fenix/datagroups/metrics_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: fenix_android_default_browser_metrics {
   label: "Default Browser Metric for Android"

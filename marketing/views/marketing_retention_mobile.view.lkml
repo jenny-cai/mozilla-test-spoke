@@ -1,4 +1,4 @@
-include: "//looker-hub/firefox_okrs/views/mobile_retention.view.lkml"
+include: "//mozilla/firefox_okrs/views/mobile_retention.view.lkml"
 
 view: marketing_retention_mobile {
  extends: [mobile_retention]

@@ -1,6 +1,6 @@
 include: "../views/desktop_retention.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//looker-hub/firefox_okrs/datagroups/desktop_retention_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_okrs/datagroups/desktop_retention_last_updated.datagroup.lkml"
 
 explore: desktop_retention {
   label: "Retention for Firefox Desktop"

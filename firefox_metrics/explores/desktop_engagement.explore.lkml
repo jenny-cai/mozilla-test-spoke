@@ -1,6 +1,6 @@
 include: "../views/desktop_engagement.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//looker-hub/firefox_okrs/datagroups/desktop_engagement_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_okrs/datagroups/desktop_engagement_last_updated.datagroup.lkml"
 
 explore: desktop_engagement {
   label: "Engagement for Firefox Desktop"

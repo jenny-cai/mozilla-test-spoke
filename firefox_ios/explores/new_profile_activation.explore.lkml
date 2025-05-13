@@ -1,6 +1,6 @@
 include: "../views/new_profile_activation_table.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//looker-hub/firefox_ios/datagroups/new_profile_activation_table_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/new_profile_activation_table_last_updated.datagroup.lkml"
 
 explore: firefox_ios_new_profile_activation {
   label: "Activation Metric for Firefox for iOS"

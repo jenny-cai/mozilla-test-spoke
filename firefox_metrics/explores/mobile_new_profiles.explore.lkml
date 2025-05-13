@@ -1,6 +1,6 @@
 include: "../views/mobile_new_profiles.view.lkml"
 include: "/shared/views/countries.view.lkml"
-include: "//looker-hub/firefox_okrs/datagroups/mobile_new_profiles_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_okrs/datagroups/mobile_new_profiles_last_updated.datagroup.lkml"
 
 explore: mobile_new_profiles {
   label: "New profiles for Firefox Mobile"

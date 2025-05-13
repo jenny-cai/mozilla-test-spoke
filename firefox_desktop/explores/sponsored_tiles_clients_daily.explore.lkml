@@ -1,5 +1,5 @@
 include: "/firefox_desktop/views/sponsored_tiles_clients_daily.view.lkml"
-include: "//looker-hub/firefox_desktop/datagroups/sponsored_tiles_clients_daily_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_desktop/datagroups/sponsored_tiles_clients_daily_last_updated.datagroup.lkml"
 
 explore: sponsored_tiles_clients_daily {
   view_name: sponsored_tiles_clients_daily

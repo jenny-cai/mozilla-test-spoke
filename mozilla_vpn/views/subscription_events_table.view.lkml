@@ -1,4 +1,4 @@
-include: "//looker-hub/mozilla_vpn/views/subscription_events_table.view"
+include: "//mozilla/mozilla_vpn/views/subscription_events_table.view"
 
 view: +subscription_events_table {
 

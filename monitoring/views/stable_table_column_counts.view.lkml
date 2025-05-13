@@ -1,4 +1,4 @@
-include: "//looker-hub/monitoring/views/stable_table_column_counts.view.lkml"
+include: "//mozilla/monitoring/views/stable_table_column_counts.view.lkml"
 
 view: +stable_table_column_counts {
 

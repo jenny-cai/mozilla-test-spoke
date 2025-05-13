@@ -1,4 +1,4 @@
-include: "//looker-hub/websites/views/moz_org_metrics_summary.view.lkml"
+include: "//mozilla/websites/views/moz_org_metrics_summary.view.lkml"
 
 view: +moz_org_metrics_summary {
 

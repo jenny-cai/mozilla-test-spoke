@@ -1,4 +1,4 @@
-include: "//looker-hub/combined_browser_metrics/views/glean_active_users_aggregates.view.lkml"
+include: "//mozilla/combined_browser_metrics/views/glean_active_users_aggregates.view.lkml"
 
 view: +glean_active_users_aggregates {
 

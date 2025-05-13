@@ -1,6 +1,6 @@
-include: "//looker-hub/activity_stream/explores/pocket_tile_impressions.explore.lkml"
+include: "//mozilla/activity_stream/explores/pocket_tile_impressions.explore.lkml"
 include: "../views/impression_stats_flat.view.lkml"
-include: "//looker-hub/activity_stream/datagroups/impression_stats_flat_last_updated.datagroup.lkml"
+include: "//mozilla/activity_stream/datagroups/impression_stats_flat_last_updated.datagroup.lkml"
 
 explore: +pocket_tile_impressions {
 

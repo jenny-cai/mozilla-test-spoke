@@ -1,6 +1,6 @@
 connection: "bigquery"
 label: "Review Checker Desktop"
-# Include files from looker-hub or spoke-default below. For example:
+# Include files from mozilla or spoke-default below. For example:
 include: "views/review_checker_clients.view.lkml"
 include: "views/review_checker_events.view.lkml"
 include: "views/review_checker_microsurvey.view.lkml"
