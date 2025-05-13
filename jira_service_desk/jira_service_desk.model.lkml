@@ -1,4 +1,4 @@
-connection: "bigquery-oauth"
+connection: "bigquery"
 label: "Jira Service Desk"
 # Include files from mozilla or spoke-default below. For example:
 include: "//mozilla/jira_service_desk/explores/*"

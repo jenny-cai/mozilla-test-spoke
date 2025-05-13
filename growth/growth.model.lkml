@@ -1,4 +1,4 @@
-connection: "bigquery-oauth"
+connection: "bigquery"
 
 label: "Growth"
 include: "views/android_app_campaign_stats.view.lkml"

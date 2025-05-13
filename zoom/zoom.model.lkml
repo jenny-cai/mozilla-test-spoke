@@ -1,2 +1,2 @@
-connection: "bigquery-oauth"
+connection: "bigquery"
 label: "Zoom"
