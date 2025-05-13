@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_ios/views/app_store_funnel_table.view.lkml"
+include: "//mozilla/firefox_ios/views/app_store_funnel_table.view.lkml"
 
 view: +app_store_funnel_table {
 

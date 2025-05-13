@@ -1,5 +1,5 @@
 include: "../views/ios_notification_metrics.view.lkml"
-# include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: ios_notification_metrics {
   label: "notification Metric for iOS"

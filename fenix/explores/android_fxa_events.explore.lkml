@@ -1,5 +1,5 @@
 include: "../views/android_fxa_events.view.lkml"
-# include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: fenix_android_fxa_events {
   label: "Fxa Event for Android"

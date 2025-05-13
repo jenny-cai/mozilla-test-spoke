@@ -1,6 +1,6 @@
 connection: "bigquery"
 label: "Firefox Focus for Android"
-# include: "//mozilla/focus_android/explores/*"
+include: "//mozilla/focus_android/explores/*"
 include: "views/focus_launch_new_profile_forecasts.view.lkml"
 include: "views/usage.view.lkml"
 

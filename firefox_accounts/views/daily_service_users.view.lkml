@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_accounts/views/fxa_users_services_daily_table.view.lkml"
+include: "//mozilla/firefox_accounts/views/fxa_users_services_daily_table.view.lkml"
 
 view: daily_service_users {
   extends: [fxa_users_services_daily_table]

@@ -1,4 +1,4 @@
-# include: "//mozilla/fenix/views/firefox_android_clients.view.lkml"
+include: "//mozilla/fenix/views/firefox_android_clients.view.lkml"
 
 view: +firefox_android_clients {
   final: yes

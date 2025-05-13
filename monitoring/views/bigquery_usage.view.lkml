@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/bigquery_usage.view.lkml"
+include: "//mozilla/monitoring/views/bigquery_usage.view.lkml"
 
 view: +bigquery_usage {
 

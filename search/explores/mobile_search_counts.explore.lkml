@@ -1,6 +1,6 @@
-# include: "//mozilla/search/explores/mobile_search_counts.explore.lkml"
+include: "//mozilla/search/explores/mobile_search_counts.explore.lkml"
 include: "/shared/views/countries.view.lkml"
-## include: "//mozilla/search/datagroups/mobile_search_clients_daily_v1_last_updated.datagroup.lkml"
+#include: "//mozilla/search/datagroups/mobile_search_clients_daily_v1_last_updated.datagroup.lkml"
 
 explore: +mobile_search_counts {
   description: "Mobile search counts and ad clicks.

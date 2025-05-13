@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_accounts/explores/all_event_counts.explore.lkml"
+include: "//mozilla/firefox_accounts/explores/all_event_counts.explore.lkml"
 include: "/subscription_platform/views/stripe_products.view.lkml"
 include: "/subscription_platform/views/stripe_plans.view.lkml"
 include: "/shared/views/countries.view.lkml"

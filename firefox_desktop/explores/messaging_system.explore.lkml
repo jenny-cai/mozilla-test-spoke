@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_desktop/explores/messaging_system.explore"
+include: "//mozilla/firefox_desktop/explores/messaging_system.explore"
 include: "../views/messaging_system.view"
 
 explore: +messaging_system {

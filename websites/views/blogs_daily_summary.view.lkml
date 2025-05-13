@@ -1,4 +1,4 @@
-# include: "//mozilla/websites/views/blogs_daily_summary.view.lkml"
+include: "//mozilla/websites/views/blogs_daily_summary.view.lkml"
 
 view: +blogs_daily_summary {
   measure: sessions_sum {

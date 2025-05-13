@@ -1,4 +1,4 @@
-# include: "//mozilla/review_checker/views/ios_clients.view.lkml"
+include: "//mozilla/review_checker/views/ios_clients.view.lkml"
 
 view: +ios_clients {
 

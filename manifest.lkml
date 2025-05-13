@@ -1,4 +1,4 @@
-project_name: "mozilla_spoke"
+project_name: "mozilla_test_spoke2"
 
 
 local_dependency: {

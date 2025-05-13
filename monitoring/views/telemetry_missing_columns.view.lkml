@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/telemetry_missing_columns.view.lkml"
+include: "//mozilla/monitoring/views/telemetry_missing_columns.view.lkml"
 
 view: +telemetry_missing_columns {
 

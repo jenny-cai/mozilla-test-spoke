@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_ios/views/metrics.view.lkml"
+include: "//mozilla/firefox_ios/views/metrics.view.lkml"
 
 
 view: firefox_ios_feature_usage_metrics_not_added {

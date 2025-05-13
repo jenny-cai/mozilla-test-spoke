@@ -1,5 +1,5 @@
 include: "../views/android_onboarding.view.lkml"
-# include: "//mozilla/fenix/datagroups/android_onboarding_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/android_onboarding_last_updated.datagroup.lkml"
 
 explore: android_onboarding {
   label: "Android Onboarding Funnel"

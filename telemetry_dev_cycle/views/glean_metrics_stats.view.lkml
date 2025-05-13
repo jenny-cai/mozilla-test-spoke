@@ -1,4 +1,4 @@
-# include: "//mozilla/telemetry_dev_cycle/views/glean_metrics_stats.view.lkml"
+include: "//mozilla/telemetry_dev_cycle/views/glean_metrics_stats.view.lkml"
 
 view: +glean_metrics_stats {
   # Dimensions

@@ -1,6 +1,6 @@
 include: "../views/mobile_retention.view.lkml"
 include: "/shared/views/countries.view.lkml"
-# include: "//mozilla/firefox_okrs/datagroups/mobile_retention_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_okrs/datagroups/mobile_retention_last_updated.datagroup.lkml"
 
 explore: mobile_retention {
   label: "Retention for Firefox Mobile"

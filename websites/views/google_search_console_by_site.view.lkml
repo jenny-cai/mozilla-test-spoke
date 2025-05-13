@@ -1,4 +1,4 @@
-# include: "//mozilla/websites/views/google_search_console_by_site.view.lkml"
+include: "//mozilla/websites/views/google_search_console_by_site.view.lkml"
 
 view: +google_search_console_by_site {
   dimension: impressions {

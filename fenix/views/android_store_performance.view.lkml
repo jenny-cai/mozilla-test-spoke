@@ -1,4 +1,4 @@
-# include: "//mozilla/fenix/views/android_store_performance.view.lkml"
+include: "//mozilla/fenix/views/android_store_performance.view.lkml"
 
 view: +android_store_performance {
 

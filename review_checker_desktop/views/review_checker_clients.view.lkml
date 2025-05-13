@@ -1,5 +1,5 @@
-## include: "//mozilla//review_checker_desktop/views/clients.view.lkml"
-# include: "//mozilla/review_checker_desktop/views/clients.view"
+#include: "//mozilla//review_checker_desktop/views/clients.view.lkml"
+include: "//mozilla/review_checker_desktop/views/clients.view"
 
 view: +clients {
 

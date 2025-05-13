@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/bigquery_tables_inventory.view.lkml"
+include: "//mozilla/monitoring/views/bigquery_tables_inventory.view.lkml"
 
 view: +bigquery_tables_inventory {
 

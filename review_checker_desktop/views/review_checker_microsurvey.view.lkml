@@ -1,4 +1,4 @@
-# include: "//mozilla/review_checker_desktop/views/microsurvey.view.lkml"
+include: "//mozilla/review_checker_desktop/views/microsurvey.view.lkml"
 
 view: +microsurvey {
 

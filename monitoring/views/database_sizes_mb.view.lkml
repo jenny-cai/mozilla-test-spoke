@@ -1,5 +1,5 @@
 # If necessary, uncomment the line below to include explore_source.
-# include: "//mozilla/fenix/views/metrics.view.lkml"
+include: "//mozilla/fenix/views/metrics.view.lkml"
 
 view: database_sizes_mb {
   extends: [metrics]

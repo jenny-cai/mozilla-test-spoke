@@ -1,5 +1,5 @@
 include: "../views/clients_daily_search.view.lkml"
-# include: "//mozilla/firefox_desktop/datagroups/clients_daily_joined_table_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_desktop/datagroups/clients_daily_joined_table_last_updated.datagroup.lkml"
 
 explore: clients_daily_search {
   persist_with: clients_daily_joined_table_last_updated

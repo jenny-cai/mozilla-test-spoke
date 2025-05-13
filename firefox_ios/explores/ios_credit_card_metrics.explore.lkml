@@ -1,5 +1,5 @@
 include: "../views/ios_credit_card_metrics.view.lkml"
-# include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: ios_credit_card_metrics {
   label: "Credit Card Metric for iOS"

@@ -3,7 +3,7 @@ include: "../views/service_subscriptions.view.lkml"
 include: "../views/table_metadata.view.lkml"
 include: "/shared/views/countries.view.lkml"
 include: "/mozilla_vpn/views/vat_rates.view.lkml"
-# include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view.lkml"
+include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view.lkml"
 
 explore: monthly_active_service_subscriptions {
   join: countries {

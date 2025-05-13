@@ -1,4 +1,4 @@
-# include: "//mozilla/kpi/views/automated_kpi_forecasts.view.lkml"
+include: "//mozilla/kpi/views/automated_kpi_forecasts.view.lkml"
 
 view: +automated_kpi_forecasts {
 

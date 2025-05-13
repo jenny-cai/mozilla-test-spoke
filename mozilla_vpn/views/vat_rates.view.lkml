@@ -1,4 +1,4 @@
-# include: "//mozilla/mozilla_vpn/views/vat_rates.view"
+include: "//mozilla/mozilla_vpn/views/vat_rates.view"
 
 view: +vat_rates {
   derived_table: {

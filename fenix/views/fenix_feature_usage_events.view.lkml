@@ -1,4 +1,4 @@
-# include: "//mozilla/fenix/views/feature_usage_events.view.lkml"
+include: "//mozilla/fenix/views/feature_usage_events.view.lkml"
 
 view: fenix_feature_usage_events {
   derived_table: {

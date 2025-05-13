@@ -1,4 +1,4 @@
-# include: "//mozilla/mozilla_vpn/views/events.view.lkml"
+include: "//mozilla/mozilla_vpn/views/events.view.lkml"
 view: +events {
   # Some events have more than one extra keys and these multiple values are essential to be combined together to monitor the events correctly.
 

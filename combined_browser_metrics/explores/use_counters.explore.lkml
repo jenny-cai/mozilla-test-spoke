@@ -1,6 +1,6 @@
 include: "../views/use_counters.view.lkml"
 include: "/shared/views/countries.view.lkml"
-# include: "//mozilla/combined_browser_metrics/datagroups/fenix_and_firefox_use_counters_last_updated.datagroup.lkml"
+include: "//mozilla/combined_browser_metrics/datagroups/fenix_and_firefox_use_counters_last_updated.datagroup.lkml"
 
 
 explore: fenix_and_firefox_use_counters {

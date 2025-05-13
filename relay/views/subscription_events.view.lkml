@@ -1,4 +1,4 @@
-# include: "//mozilla/relay/views/subscription_events.view.lkml"
+include: "//mozilla/relay/views/subscription_events.view.lkml"
 view: +subscription_events {
 
   dimension: country_name {

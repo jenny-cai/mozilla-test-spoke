@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_ios/views/baseline_clients_last_seen.view.lkml"
+include: "//mozilla/firefox_ios/views/baseline_clients_last_seen.view.lkml"
 
 view: usage {
   extends: [baseline_clients_last_seen]

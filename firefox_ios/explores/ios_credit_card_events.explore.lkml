@@ -1,5 +1,5 @@
 include: "../views/ios_credit_card_events.view.lkml"
-# include: "//mozilla/firefox_ios/datagroups/events_unnested_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/events_unnested_last_updated.datagroup.lkml"
 
 explore: ios_credit_card_events {
   label: "Credit Card Event for iOS"

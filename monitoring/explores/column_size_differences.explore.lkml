@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/column_size.view.lkml"
+include: "//mozilla/monitoring/views/column_size.view.lkml"
 
 explore: column_size_differences{
   hidden: no

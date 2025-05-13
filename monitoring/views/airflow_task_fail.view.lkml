@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/airflow_task_fail.view.lkml"
+include: "//mozilla/monitoring/views/airflow_task_fail.view.lkml"
 
 view: +airflow_task_fail {
 

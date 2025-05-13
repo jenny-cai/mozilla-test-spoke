@@ -1,4 +1,4 @@
-# include: "//mozilla/subscription_platform/views/monthly_active_logical_subscriptions.view.lkml"
+include: "//mozilla/subscription_platform/views/monthly_active_logical_subscriptions.view.lkml"
 
 view: +monthly_active_logical_subscriptions {
   dimension: id {

@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_accounts/views/growth_accounting.view.lkml"
+include: "//mozilla/firefox_accounts/views/growth_accounting.view.lkml"
 
 view: +growth_accounting {
   dimension_group: first_run {

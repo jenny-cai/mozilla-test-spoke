@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_desktop/views/urlbar_events.view.lkml"
+include: "//mozilla/firefox_desktop/views/urlbar_events.view.lkml"
 
 view: +urlbar_events {
   dimension: annoyance_signal_type {

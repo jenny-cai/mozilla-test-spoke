@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/missing_document_namespaces_notes.view.lkml"
+include: "//mozilla/monitoring/views/missing_document_namespaces_notes.view.lkml"
 
 view: +missing_document_namespaces_notes {
 

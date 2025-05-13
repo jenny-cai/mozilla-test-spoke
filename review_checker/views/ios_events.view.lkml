@@ -1,4 +1,4 @@
-# include: "//mozilla/review_checker/views/ios_events.view.lkml"
+include: "//mozilla/review_checker/views/ios_events.view.lkml"
 
 
 view: +ios_events {

@@ -1,4 +1,4 @@
-# include: "//mozilla/combined_browser_metrics/views/active_users_aggregates_device.view.lkml"
+include: "//mozilla/combined_browser_metrics/views/active_users_aggregates_device.view.lkml"
 
 view: +active_users_aggregates_device {
   parameter: choose_breakdown {

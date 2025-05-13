@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/bigquery_table_storage.view.lkml"
+include: "//mozilla/monitoring/views/bigquery_table_storage.view.lkml"
 
 view: +bigquery_table_storage {
 

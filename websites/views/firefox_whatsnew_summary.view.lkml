@@ -1,4 +1,4 @@
-# include: "//mozilla/websites/views/firefox_whatsnew_summary.view.lkml"
+include: "//mozilla/websites/views/firefox_whatsnew_summary.view.lkml"
 
 view: +firefox_whatsnew_summary {
 

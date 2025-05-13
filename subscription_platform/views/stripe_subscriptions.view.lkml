@@ -1,4 +1,4 @@
-# include: "//mozilla/subscription_platform/views/stripe_subscriptions.view.lkml"
+include: "//mozilla/subscription_platform/views/stripe_subscriptions.view.lkml"
 
 view: +stripe_subscriptions {
   dimension: id {

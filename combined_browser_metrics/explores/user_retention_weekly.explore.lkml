@@ -1,6 +1,6 @@
 include: "../views/cohort_weekly_statistics.view.lkml"
 include: "/shared/views/countries.view.lkml"
-# include: "//mozilla/combined_browser_metrics/datagroups/cohort_weekly_statistics_last_updated.datagroup.lkml"
+include: "//mozilla/combined_browser_metrics/datagroups/cohort_weekly_statistics_last_updated.datagroup.lkml"
 
 explore: user_retention_weekly {
   view_name: cohort_weekly_statistics

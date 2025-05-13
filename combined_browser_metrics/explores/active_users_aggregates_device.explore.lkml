@@ -1,6 +1,6 @@
 include: "../views//active_users_aggregates_device.view.lkml"
 include: "/shared/views/countries.view.lkml"
-# include: "//mozilla/combined_browser_metrics/datagroups/active_users_aggregates_device_last_updated.datagroup.lkml"
+include: "//mozilla/combined_browser_metrics/datagroups/active_users_aggregates_device_last_updated.datagroup.lkml"
 
 explore: active_users_aggregates_device {
   always_filter: {

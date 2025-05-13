@@ -1,5 +1,5 @@
 include: "../views/android_tab_count_metrics.view.lkml"
-# include: "//mozilla/fenix/datagroups/metrics_last_updated.datagroup.lkml"
+include: "//mozilla/fenix/datagroups/metrics_last_updated.datagroup.lkml"
 
 explore: fenix_android_tab_count_metrics {
   label: "Tab Count Metric for Android"

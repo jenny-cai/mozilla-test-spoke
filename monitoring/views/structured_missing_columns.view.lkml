@@ -1,4 +1,4 @@
-# include: "//mozilla/monitoring/views/structured_missing_columns.view.lkml"
+include: "//mozilla/monitoring/views/structured_missing_columns.view.lkml"
 
 view: +structured_missing_columns {
 

@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_ios/views/firefox_ios_clients.view.lkml"
+include: "//mozilla/firefox_ios/views/firefox_ios_clients.view.lkml"
 
 view: +firefox_ios_clients {
   final: yes

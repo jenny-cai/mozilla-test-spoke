@@ -1,6 +1,6 @@
 include: "../views/subscriptions.view"
 include: "/mozilla_vpn/views/vat_rates.view"
-# include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view"
+include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view"
 include: "../views/table_metadata.view"
 
 explore: subscriptions {

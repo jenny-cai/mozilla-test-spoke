@@ -1,4 +1,4 @@
-# include: "//mozilla/subscription_platform/views/service_subscription_events.view.lkml"
+include: "//mozilla/subscription_platform/views/service_subscription_events.view.lkml"
 
 view: +service_subscription_events {
   dimension: id {

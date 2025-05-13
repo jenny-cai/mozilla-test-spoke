@@ -1,4 +1,4 @@
-# include: "//mozilla/revenue/views/fenix_ltv.view.lkml"
+include: "//mozilla/revenue/views/fenix_ltv.view.lkml"
 
 view: +fenix_ltv {
   label: "Lifetime Value"

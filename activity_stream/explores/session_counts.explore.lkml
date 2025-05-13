@@ -1,6 +1,6 @@
-# include: "//mozilla/activity_stream/explores/session_counts.explore.lkml"
+include: "//mozilla/activity_stream/explores/session_counts.explore.lkml"
 include: "../views/sessions.view.lkml"
-# include: "//mozilla/activity_stream/datagroups/sessions_last_updated.datagroup.lkml"
+include: "//mozilla/activity_stream/datagroups/sessions_last_updated.datagroup.lkml"
 
 explore: +session_counts {
 

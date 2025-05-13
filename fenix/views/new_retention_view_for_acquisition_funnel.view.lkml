@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_okrs/views/mobile_retention.view.lkml"
+include: "//mozilla/firefox_okrs/views/mobile_retention.view.lkml"
 
 view: new_retention_view_for_acquisition_funnel {
 

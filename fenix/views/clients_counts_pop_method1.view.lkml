@@ -1,4 +1,4 @@
-# include: "//mozilla/fenix/views/client_counts.view.lkml"
+include: "//mozilla/fenix/views/client_counts.view.lkml"
 
 
 view: clients_counts_pop_method1 {

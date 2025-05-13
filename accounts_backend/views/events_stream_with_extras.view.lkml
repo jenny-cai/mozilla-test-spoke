@@ -1,4 +1,4 @@
-# include: "//mozilla/accounts_backend/views/events_stream_table.view.lkml"
+include: "//mozilla/accounts_backend/views/events_stream_table.view.lkml"
 
 view: events_stream_with_extras {
   extends: [events_stream_table]

@@ -1,4 +1,4 @@
-# include: "//mozilla/review_checker_desktop/views/events.view"
+include: "//mozilla/review_checker_desktop/views/events.view"
 
 view: +events {
 

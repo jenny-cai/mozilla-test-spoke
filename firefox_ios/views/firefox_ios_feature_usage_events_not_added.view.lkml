@@ -1,4 +1,4 @@
-# include: "//mozilla/firefox_ios/views/events_unnested.view.lkml"
+include: "//mozilla/firefox_ios/views/events_unnested.view.lkml"
 
 
 view: firefox_ios_feature_usage_events_not_added {

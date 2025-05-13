@@ -2,7 +2,7 @@ include: "../views/subscriptions.view"
 include: "../views/devices.view"
 include: "../views/table_metadata.view"
 include: "../views/vat_rates.view"
-# include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view"
+include: "//mozilla/mozilla_vpn/views/exchange_rates_table.view"
 
 explore: subscriptions {
 

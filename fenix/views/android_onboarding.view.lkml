@@ -1,4 +1,4 @@
-# include: "//mozilla/fenix/views/android_onboarding.view.lkml"
+include: "//mozilla/fenix/views/android_onboarding.view.lkml"
 
 view: +android_onboarding {
 

@@ -1,6 +1,6 @@
 include: "../views/firefox_ios_feature_usage_events.view.lkml"
 include: "../views/firefox_ios_dau.view.lkml"
-# include: "//mozilla/firefox_ios/datagroups/feature_usage_events_last_updated.datagroup.lkml"
+include: "//mozilla/firefox_ios/datagroups/feature_usage_events_last_updated.datagroup.lkml"
 
 explore: firefox_ios_feature_usage_events {
 
