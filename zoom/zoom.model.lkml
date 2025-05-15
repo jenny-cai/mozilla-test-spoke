@@ -1,2 +1,0 @@
-connection: "bigquery"
-label: "Zoom"

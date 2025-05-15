@@ -1,6 +1,0 @@
-connection: "bigquery"
-label: "Subscription Platform"
-include: "//mozilla/subscription_platform/explores/*"
-#include: "//mozilla/subscription_platform/dashboards/*"
-include: "explores/*"
-include: "dashboards/*"
